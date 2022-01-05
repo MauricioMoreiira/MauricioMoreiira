@@ -16,8 +16,7 @@
 </div>
   <br>
   
-        
-  ![Snake animation](https://github.com/MauricioMoreiira/MauricioMoreiira/blob/output/github-contribution-grid-snake.svg) 
+     
   
   
   ## Contato
