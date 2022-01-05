@@ -1,8 +1,8 @@
 ## Olá me chamo Mauricio, e sou estudante e desenvolvedor front-end
 <div align="center">
   <a href="https://github.com/MauricioMoreiira">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoreiira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoreiira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoreiira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoreiira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Minhas skills
