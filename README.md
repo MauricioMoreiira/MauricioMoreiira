@@ -16,7 +16,6 @@
       <img align="center" alt="Mauricio-.NET_CORE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 </div>
   <br>
-  
      
      
   
